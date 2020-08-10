@@ -34,3 +34,7 @@ body {
 .degree-sction h2 {
   font-size: 40px;
 }
+.weather-icon {
+  margin: 20px;
+  border-radius: 20px;
+}
